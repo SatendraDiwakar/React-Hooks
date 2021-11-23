@@ -4,7 +4,8 @@ export default function UseStateHook() {
 
     // This component is used to explain how we can use useState hook
     // to create state
-    // states
+    
+    //      stateName , stateUpdate method
     const [stateHook, setStateHook] = useState(0);
     // This will return a state with initial value "0" and 
     // a function to change the state with some value.
