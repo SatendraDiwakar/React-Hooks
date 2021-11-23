@@ -6,4 +6,4 @@ This project was built to explain how we can use hooks in React
 
 - [useState-hook](https://github.com/SatendraDiwakar/React-Hooks/blob/master/src/hooks/UseStateHook.js)
 
-- [useState-hook](https://github.com/SatendraDiwakar/React-Hooks/blob/master/src/hooks/UseRefHook.js)
+- [useRef-hook](https://github.com/SatendraDiwakar/React-Hooks/blob/master/src/hooks/UseRefHook.js)
