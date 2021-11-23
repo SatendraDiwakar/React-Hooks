@@ -15,7 +15,7 @@ export default function UseStateHook() {
             {/* using value of stateHook */}
             <h3>{stateHook}</h3>
             {/* Incrementing value of stateHook using setStateHook function */}
-            <button style={{ width: '1.8em' }}
+            <button style={{ width: '1.8em', margin: '0 .5em' }}
                 onClick={() => setStateHook(preVal => preVal + 1)}
             >+</button>
             {/* Decrementing value of stateHook using setStateHook function */}
