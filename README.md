@@ -8,4 +8,4 @@ This project was built to explain how we can use hooks in React
 
 - [useRef-hook](https://github.com/SatendraDiwakar/React-Hooks/blob/master/src/hooks/UseRefHook.js)
 
-- [useEffect-hook](https://github.com/SatendraDiwakar/React-Hooks/blob/master/src/hooks/UseEffectHook.js)
+- [useEffect-hook](https://github.com/SatendraDiwakar/React-Hooks/blob/master/src/hooks/UseEffecthook.js)
